@@ -6,7 +6,7 @@ Este projeto corresponde à tutoria prestada por mim aos alunos do quinto semest
 
 - Docker Engine instalado na máquina
 - Docker Compose
-- Editor de Texto para códigos (aka Visual Studio Code)
+- Editor de Texto para códigos (e.g. Visual Studio Code)
 - Persistência
 
 ## Comandos Docker básicos para gerenciar o Projeto
